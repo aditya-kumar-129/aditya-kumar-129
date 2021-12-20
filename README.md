@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Aditya Kumar\</h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
@@ -66,7 +66,7 @@ excellent organizational skills, a clear understanding of frontend and backend.<
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-kumar-129&show_icons=true&theme=dark" alt="pragativerma18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-kumar-129&show_icons=true&theme=radical" alt="Aditya Kumar" /></p>
 
 ## Connect with me  
 
