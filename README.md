@@ -1,3 +1,13 @@
+![Visitor Count](https://profile-counter.glitch.me/aditya-kumar-129/count.svg)
+<div style="text-align: right">
+  <img
+    src="https://jojoee.jojoee.com/api/utcnow?refresh"
+    width="120"
+    height="20"
+  />
+</div>
+
+
 <!-- <h1 align="center">Hi 👋, I'm Aditya Kumar\</h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
