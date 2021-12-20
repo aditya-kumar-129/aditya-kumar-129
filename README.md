@@ -32,11 +32,15 @@ excellent organizational skills, a clear understanding of frontend and backend.<
   src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
   width="50"
 />
-A little more about me... ```javascript const aditya = { pronouns: "He" | "Him",
+A little more about me... 
+
+```javascript const aditya = { pronouns: "He" | "Him",
 code: ["Javascript","HTML", "CSS","MySQL"], askMeAbout: ["WebDev",
 "Tech"], databases: ["mongo", "MySql", "sqlite"] },
 currentFocus: "React", fun: "Two bytes meet. The first byte asks, 'Are you
-ill?' The second byte replies, 'No, just feeling a bit off.'" }; ```
+ill?' The second byte replies, 'No, just feeling a bit off.'" }; 
+
+```
 <br />
 ----
 <br />
