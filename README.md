@@ -17,8 +17,6 @@
 excellent organizational skills, a clear understanding of frontend and backend.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-kumar-129" alt="Aditya Kumar" /> </p>
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on ...
