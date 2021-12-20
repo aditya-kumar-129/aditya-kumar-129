@@ -10,21 +10,43 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Aditya Kumar\</h1> -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" alt="Different ways of saying hello world" align="center"/>
 </div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=%2300FFD2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner"
+  />
+</p>
 <h1 align="center">I'm Aditya Kumar</h1>
-<p align="center">Enthusiastic full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
+<img
+  align="right"
+  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+  width="230"
+/>
+<p align="center">Enthusiastic full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to details, and
 excellent organizational skills, a clear understanding of frontend and backend.</p>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **React**
+## I'm a Student!! - 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to contribute to open source project based on React
+- 🔭 I’m currently working on Food order Web using react
 - 👯 I’m looking to collaborate on ...
 - 🤝 I’m looking for help with ...
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aditya-kumar-129)
-- 💬 Ask me about **Frontend , frameworks and backend**
-- 📫 You can reach me through `Gmail:-` adityakumar93340@gmail.com
+- 💬 Ask me about **Tech related to web-development**
 - ⚡ Fun fact **Tea over anything!!**
+
+
+<img
+  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
+  width="50"
+/>
+A little more about me... ```javascript const aditya = { pronouns: "He" | "Him",
+code: ["Javascript","HTML", "CSS","MySQL"], askMeAbout: ["WebDev",
+"Tech"], databases: ["mongo", "MySql", "sqlite"] },
+currentFocus: "React", fun: "Two bytes meet. The first byte asks, 'Are you
+ill?' The second byte replies, 'No, just feeling a bit off.'" }; ```
+<br /
 
 ### Tech Stack
 
@@ -73,10 +95,19 @@ excellent organizational skills, a clear understanding of frontend and backend.<
   />
 </p>
 
-
+## Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-kumar-129&show_icons=true&theme=radical" alt="Aditya Kumar" /></p>
 
+<br />
+
+[![Top
+Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=aditya-kumar-129&layout=compact)](https://github.com/aditya-kumar-129/aditya-kumar-129)
+
+<br />
+<br />
+
 ## Connect with me  
+<br />
 
 <div align="center">
   <a href="https://github.com/aditya-kumar-129" target="_blank">
@@ -124,6 +155,10 @@ excellent organizational skills, a clear understanding of frontend and backend.<
       style="margin-bottom: 5px"
     />
   </a>
+  <a href="mailto:adityakumar93340@gmail.com"
+  ><img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/></a>
   <a href="https://www.instagram.com/aditya_kumar_129/" target="_blank">
     <img
       src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"
@@ -132,3 +167,7 @@ excellent organizational skills, a clear understanding of frontend and backend.<
     />
   </a>
 </div>
+
+<br />
+<br />
+<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0" />
