@@ -1,14 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/aditya-kumar-129/count.svg)
-<div style="text-align: right">
-  <img
-    src="https://jojoee.jojoee.com/api/utcnow?refresh"
-    width="120"
-    height="20"
-  />
-</div>
-
-
-<!-- <h1 align="center">Hi 👋, I'm Aditya Kumar\</h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" alt="Different ways of saying hello world" align="center"/>
 </div>
@@ -17,7 +6,8 @@
     src="https://readme-typing-svg.herokuapp.com?color=%2300FFD2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner"
   />
 </p>
-<h1 align="center">I'm Aditya Kumar</h1>
+  <h1 align="center">I'm Aditya Kumar<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/></h1>
+  
 <img
   align="right"
   src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
@@ -35,6 +25,7 @@ excellent organizational skills, a clear understanding of frontend and backend.<
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aditya-kumar-129)
 - 💬 Ask me about **Tech related to web-development**
 - ⚡ Fun fact **Tea over anything!!**
+<br /><br />
 
 
 <img
@@ -46,7 +37,9 @@ code: ["Javascript","HTML", "CSS","MySQL"], askMeAbout: ["WebDev",
 "Tech"], databases: ["mongo", "MySql", "sqlite"] },
 currentFocus: "React", fun: "Two bytes meet. The first byte asks, 'Are you
 ill?' The second byte replies, 'No, just feeling a bit off.'" }; ```
-<br /
+<br />
+----
+<br />
 
 ### Tech Stack
 
