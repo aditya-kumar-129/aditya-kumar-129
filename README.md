@@ -1,11 +1,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/aditya-kumar-129/count.svg)
-<div style="text-align: right">
+<!-- <div style="text-align: right">
   <img
     src="https://jojoee.jojoee.com/api/utcnow?refresh"
     width="120"
     height="20"
   />
-</div>
+</div> -->
 
 
 <div align="center">
