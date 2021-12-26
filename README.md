@@ -34,7 +34,7 @@ excellent organizational skills, a clear understanding of frontend and backend.<
 - 🤝 I’m looking for help with ...
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aditya-kumar-129)
 - 💬 Ask me about **Tech related to web-development**
-- ⚡ Fun fact **Tea over anything!!**
+- ⚡ Fun fact **'let's go for kullhad wali chai.'**
 <br /><br />
 
 
